@@ -49,3 +49,5 @@ echo "-(12*(13+15/5*(6/(12+14%(30%5+(10*25)-46)+16)-20)/43)*20)*(-(12-98*42)*(16
 ## Contributors
 
  - [Alexandre Chetrit](https://github.com/chetrit)
+ - [Martin Olivier](https://github.com/martinoliv78)
+ - [Axel Karcher](https://github.com/RinkusuTV)
