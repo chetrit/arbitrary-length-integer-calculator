@@ -1,6 +1,6 @@
 # arbitrary-length-integer-calculator
 
-> This project is a calculator of mathematic expressions, working with integers of an arbitrary length, wich means It can performs operations on numbers way bigger than the maximal values of an ``int`` or a ``long`` (which are respectively 2^16 and 2^32), including parenthesis and operating priorities.
+> This project is a calculator of mathematical expressions, working with integers of an arbitrary length, wich means It can performs operations on numbers way bigger than the maximal values of an ``int`` or a ``long`` (which are respectively 2^16 and 2^32), including parenthesis and operating priorities.
 
 # Features
 
