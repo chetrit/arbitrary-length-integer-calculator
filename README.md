@@ -2,11 +2,6 @@
 
 > This project is a calculator of mathematical expressions, working with integers of an arbitrary length, wich means It can performs operations on numbers way bigger than the maximal values of an ``int`` or a ``long`` (which are respectively 2^16 and 2^32), including parenthesis and operating priorities.
 
-# Features
-
-  - Import a HTML file and watch it magically convert to Markdown
-  - Drag and drop images (requires your Dropbox account be linked)
-
 # Installation and compilation
 #### Installation
 After cloning the repository, you have nothing else to installed since it is in C and without external libraries !
